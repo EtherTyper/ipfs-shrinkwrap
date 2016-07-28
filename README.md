@@ -1,10 +1,8 @@
-# ipfs-shrinkwrap
+# IPFS Shrinkwrap for NuGet
 
-[![ipfs-shrinkwrap](https://ipfs.pics/ipfs/QmXV8a5eSGeKBCQjFzsMGyYmoYvshyX8SYBb9JCTEsr7gE)](https://github.com/elsehow/ipfs-shrinkwrap)
+Shrinkwrap your NuGet package dependencies by backing them up to IPFS. Inspired by [![ipfs-shrinkwrap](https://ipfs.pics/ipfs/QmXV8a5eSGeKBCQjFzsMGyYmoYvshyX8SYBb9JCTEsr7gE)](https://github.com/elsehow/ipfs-shrinkwrap)
 
-Shrinkwrap your npm dependencies by backing them up to IPFS.
-
-**WARNING** This is a WIP. Shrinkwrapped dependencies may contain information about your system, e.g. your path or other environment info. *Use at your own risk!* (thanks @clkao).
+**WARNING** This is a WIP. NuGet shrinkwrapping doesn't work yet, and **there is no installer on npmjs.com**. Shrinkwrapped dependencies may contain information about your system, e.g. your path or other environment info. *Use at your own risk!* (thanks @clkao).
 
 ## install
 
